@@ -6,11 +6,13 @@ A professional **Master-Detail CRUD** application designed to manage traveler re
 
 ### 1. Main Dashboard
 This is where you manage everything. You can fill out traveler info and add multiple trip destinations in one single form.
-!
+![Traveler Management Dashboard](master-details.png)
 
 ### 2. Professional Crystal Report
 The system generates a clean, print-ready document for every traveler.
-!
+![Traveler Management Crystal Report](crystal-report1.png)
+![Traveler Management Crystal Report](crystal-report2.png)
+
 
 ---
 
